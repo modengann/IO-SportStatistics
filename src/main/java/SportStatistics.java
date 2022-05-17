@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class SportStatistics {
 
     public static void main(String[] args) {
+        //Use scan to collect keyboard input
         Scanner scan = new Scanner(System.in);
 
     }
